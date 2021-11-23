@@ -49,8 +49,8 @@
                 <label class="phone-number">Phone Number</label>
  
  
-                <h2 class="name"> Preferred Branch</h2>
-                <select class="option"name="branch">
+                <h2 class="name"> Preferred Branch*</h2>
+                <select class="option"name="branch" required>
                  <option disabled="disabled" selected="selected">--Choose Option--</option>
                  <option> Computer Engineering</option>
                  <option> Information Technology</option>
@@ -62,6 +62,16 @@
                  <option>Chemical Engineering</option>
                  <option>Civil Engineering</option>
 
+                </select>
+
+                <h2 class="name"> Minority*</h2>
+                <select class="option"name="branch" required>
+                 <option disabled="disabled" selected="selected">--Choose Option--</option>
+                 <option> Hindi</option>
+                 <option> Gujarati</option>
+                 <option> Sindhi</option>
+                 <option> Punjabi</option>
+                 
                 </select>
  
  
@@ -79,9 +89,7 @@
                          <h2 class="name">CET Score*</h2>     
                     <input class="cet" type="text" name="cet_marks" required>
                     
-                    <h2 class="name">JEE Main Score</h2>     
-                    <input class="jee" type="text" name="jee_marks">
-                   <br>
+                    
                
                     <button type="button" class="hero-btn predict" >Predict</button> 
  

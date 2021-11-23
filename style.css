@@ -456,13 +456,19 @@ h1{
     width: 100%;
     height: 100vh;
     font-family: sans-serif;
-    background-image: linear-gradient(rgba(245, 246, 252, 0.52), #041546b7),url(images/image.jpg);
-    background-size: cover;
-    background-position: auto;
+   
     color: #ffffff;
     display: flex;
     align-items: center;
     justify-content: center;
+
+    background-image:
+    linear-gradient(rgba(245, 246, 252, 0.52), #041546b7),
+    url(images/image.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
 }
 
 .card{
@@ -636,6 +642,9 @@ form{
     font-size: 18px;
     font-weight: 700;
 }
+.name output{
+    color: white;
+}
 .firstname{
     position : relative;
     left: 200px;
@@ -806,19 +815,43 @@ form{
 }
 
 
-.jee{
-    position: relative;
-    left: 200px;
-    top:-37px;
-    line-height: 40px;
-    width: 100px;
-    border-radius: 6px;
-    padding: 0 22px;
-    font-size: 16px;
-    color: #555;
-}
+
 
 .predict{
    margin: 30px;
    align-items: center;
+}
+
+.loading{
+    margin: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.loading .l span{
+    width: 25px;
+    height: 25px;
+    margin: 0 5px;
+    background-color: #012C6D;
+    border-radius: 50%;
+    display: inline-block;
+    animation-name: dots;
+    animation-duration: 2s ;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+.loading span:nth-child(2){
+    background-color: #03989E;
+    animation-delay: 0.4s;
+}
+.loading span:nth-child(3){
+    background-color: #FAAE42;
+    animation-delay: 0.8s;
+}
+@keyframes dots{
+    50%{
+        opacity: 0;
+        transform: scale(0.7) translateY(10px);
+    }
 }
