@@ -42,6 +42,7 @@ Contact Us page
 Predictor
 ![image](https://user-images.githubusercontent.com/89039068/147741566-8d2f636a-be46-4ffb-a87f-3826aa845a38.png)
 ![image](https://user-images.githubusercontent.com/89039068/147741606-0b93a23f-200a-44f5-b989-de23a3e74ceb.png)
+![image](https://user-images.githubusercontent.com/89039068/147741787-ee45cd01-dcd1-4b55-8e55-9da90dd6d746.png)
 ![image](https://user-images.githubusercontent.com/89039068/147741621-25c8eb12-1393-4206-8c6c-fdd9c97302dd.png)
 ![image](https://user-images.githubusercontent.com/89039068/147741640-ea01a9f1-d963-40c1-bcac-bd696efee7fb.png)
 
