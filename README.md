@@ -33,5 +33,7 @@ Home page
 About Us page
 ![image](https://user-images.githubusercontent.com/89039068/147741269-e0792309-70bc-49f6-bbcc-b152801882e3.png)
 
+Horizontal Sliding
+![image](https://user-images.githubusercontent.com/89039068/147741396-182bd85e-4c00-4336-b5d4-958b85e340c2.png)
 
 
