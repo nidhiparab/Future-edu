@@ -24,7 +24,12 @@
 | Yellow Orange | ![#FAAE42](https://via.placeholder.com/10/FAAE42?text=+) #FAAE42 |
 | Deep Blue | ![#012C6D](https://via.placeholder.com/10/012C6D?text=+) #012C6D |
 
+## Authors
 
+- [Nidhi](https://github.com/nidhiparab)
+- [@AlefiyaAbbas](https://github.com/AlefiyaAbbas)
+- [@Dharaaaaaa](https://github.com/Dharaaaaaa)
+- [Khusheeta](https://github.com/Khusheeta)
 
 ## Screenshots
 Home page
