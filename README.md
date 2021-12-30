@@ -1,5 +1,4 @@
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![logo](https://user-images.githubusercontent.com/89039068/147740930-0d36bdb4-e6d1-4c03-99f9-8c1095a97a89.png)
 
 
 
@@ -28,6 +27,11 @@
 
 
 ## Screenshots
+Home page
+![image](https://user-images.githubusercontent.com/89039068/147740990-7a6cb59a-8b2c-42c2-9635-aaf7a647e36f.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+About Us page
+![image](https://user-images.githubusercontent.com/89039068/147741269-e0792309-70bc-49f6-bbcc-b152801882e3.png)
+
+
 
