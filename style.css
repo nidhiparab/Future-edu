@@ -430,6 +430,11 @@ h1{
 }
 .about-col p{
     padding: 15px 0 25px;
+    
+}
+.grp{
+    
+    font-weight:bold;
 }
 .red-btn{
     border: 1px solid #FAAE42;
@@ -895,7 +900,7 @@ form{
 }
 
 .predictor-res h1{
-    width: 900px;
+    width: 1000px;
     background-image:linear-gradient(rgba(1, 44, 109, 0.89),rgba(1, 44, 109, 0.473));
     margin-top:50px;
     color: #fff;
@@ -913,14 +918,15 @@ form{
 .predictor-res .main{
     background-image:linear-gradient(rgba(1, 44, 109, 0.89),rgba(1, 44, 109, 0.473));
     border-radius: 0 0 60px 60px;
-    width: 900px;
+    
+    width: 1000px;
     margin: auto;
 }
 .col-r{
     display: flex;
 }
 .main img{
-    max-width: 60%;
+    width: 40%;
     
    position:relative;
    -webkit-animation:glide 1s ease-in-out alternate infinite;
@@ -944,12 +950,12 @@ form{
 .predictor-res .result
 {
     display: flex;
-    min-height: 100px;
-    max-height: 100px;
+    
+    
 }
 .predictor-res h3
 {
-        
+       
     font-size: 24px;
     color: #FAAE42;
     text-shadow: 2px 2px 30px #ffffff;
@@ -957,15 +963,19 @@ form{
 }
 .colleges{
     
-    padding: 50px;
+    padding: 50px; 
 }
 .predictor-res .result h4
 {
-   
-    font-size: 24px;
+    
+    font-size: 18px;
     color: white;
     font-weight: 600;
+    padding-bottom: 2;  
+    min-height: 150px;
+    
 }
+
 
 /* ---------------------loading------------------- */
 .loading{
