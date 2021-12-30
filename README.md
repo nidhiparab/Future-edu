@@ -26,10 +26,10 @@
 
 ## Authors
 
-- [Nidhi](https://github.com/nidhiparab)
+- [@Nidhi](https://github.com/nidhiparab)
 - [@AlefiyaAbbas](https://github.com/AlefiyaAbbas)
 - [@Dharaaaaaa](https://github.com/Dharaaaaaa)
-- [Khusheeta](https://github.com/Khusheeta)
+- [@Khusheeta](https://github.com/Khusheeta)
 
 ## Screenshots
 Home page
