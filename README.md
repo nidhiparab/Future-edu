@@ -36,4 +36,14 @@ About Us page
 Horizontal Sliding
 ![image](https://user-images.githubusercontent.com/89039068/147741396-182bd85e-4c00-4336-b5d4-958b85e340c2.png)
 
+Contact Us page
+![image](https://user-images.githubusercontent.com/89039068/147741522-64ca9ca4-e2d1-45ae-8b39-6410d5437707.png)
+
+Predictor
+![image](https://user-images.githubusercontent.com/89039068/147741566-8d2f636a-be46-4ffb-a87f-3826aa845a38.png)
+![image](https://user-images.githubusercontent.com/89039068/147741606-0b93a23f-200a-44f5-b989-de23a3e74ceb.png)
+![image](https://user-images.githubusercontent.com/89039068/147741621-25c8eb12-1393-4206-8c6c-fdd9c97302dd.png)
+![image](https://user-images.githubusercontent.com/89039068/147741640-ea01a9f1-d963-40c1-bcac-bd696efee7fb.png)
+
+
 
